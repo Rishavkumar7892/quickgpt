@@ -7,7 +7,7 @@ QuickGPT is a full-stack platform that allows users to interact with AI and brin
 - 🔐 **Secure authentication with JWT and password hashing using bcryptjs**
 - 🔒 **Middleware-protected API routes for safe user access**
 - 💬 **AI text responses powered by Google Gemini**
-- 🎨 **AI-generated images using ImageKit.io**
+- 🎨 **AI-generated images with storage and delivery powered by ImageKit.io**
 - 🌍 **Option to publish images for community sharing**
 - 📂 **Full chat management: create, view and delete**
 - 👤 **User Dashboard – View your own generated content**
@@ -34,12 +34,6 @@ QuickGPT is a full-stack platform that allows users to interact with AI and brin
 - **Svix**
 - **CORS**
 - **Stripe**
-
-### AI Services
-- **Google Gemini (text)**
-- **ImageKit.io (images)**
-
----
 
 ## Getting Started
 
